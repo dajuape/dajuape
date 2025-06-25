@@ -4,18 +4,29 @@
   🇪🇸 Java Backend Developer | Clean Code Enthusiast | Based in Spain, open to relocate to Switzerland 🇨🇭  
 </p>
 
+<table>
+  <tr>
+    <td>
+
 🌱 Currently working at **esPublico Tecnología (Spain)**, developing scalable backends and data processing pipelines with Java and DuckDB.  
 🚀 Also building a personal AI-powered exam solver.  
-🧠 Learning **Web3 and Smart Contracts with Solidity**, exploring Ethereum fundamentals, dApp development, and contract testing best practices.
+🧠 Learning **Web3 and Smart Contracts with Solidity**, exploring Ethereum fundamentals, dApp development, and contract testing best practices.  
 
 🧰 Main stack: Java · Spring Boot · PostgreSQL · REST APIs  
 🐧 Working with Docker, Linux, and system integrations  
 🧼 I care about clean code, SOLID principles, and scalable backend architectures  
 🌍 Open to backend roles in German-speaking Switzerland
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</td>
+<td>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQyNzdxbzk0bm1xOHEzMGw2OTJ0ZWhyNmlvbm5wa2p4dGRxcjc2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="250px" alt="Coding cat">
+</td>
+</tr>
+</table>
+
 
 ---
+
 
 ### 🛠 &nbsp;Tech Stack
 
